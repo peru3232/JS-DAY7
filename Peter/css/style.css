@@ -63,7 +63,7 @@ header {
     top: 90px;
     left: 0;
     height: 370px;
-    /* display: flex; */
+    justify-content: center;
     width: 100%;
 }
 
